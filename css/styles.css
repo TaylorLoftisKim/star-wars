@@ -1,0 +1,8 @@
+#jarjar, #r2d2, #luke, #sith, #darth, #kylo {
+  display: none;
+}
+
+.imageSize {
+  width: 300px;
+  margin: 0 30%;
+}
